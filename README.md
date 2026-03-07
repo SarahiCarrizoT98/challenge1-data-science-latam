@@ -219,10 +219,9 @@ El dataset contiene **13 columnas** con información detallada:
 
 ## 👨‍💻 Información del Desarrollador
 
-**Jazmín Fuentes**
-- **GitHub:** [@jazminfuentesb](https://github.com/jazminfuentesb)
-- **LinkedIn:** https://www.linkedin.com/in/jazmin-fuentes/
-- **Email:** jazminfuentes.1213@gmail.com
+**Sarahi Carrizo Trejo**
+- **GitHub:** https://github.com/SarahiCarrizoT98
+
 
 ### Competencias Técnicas Demostradas
 - **Python Programming:** Pandas, NumPy, Matplotlib
@@ -231,11 +230,4 @@ El dataset contiene **13 columnas** con información detallada:
 - **Visualization:** Data Storytelling, Dashboard Creation
 - **Problem Solving:** Business Problem Translation to Technical Solution
 
----
-
-**🎯 Challenge Status:** ✅ Completado  
-**📊 Analysis Type:** Exploratory Data Analysis (EDA)  
-**🏆 Business Impact:** Strategic Decision Support System  
-
----
 *Desarrollado como parte del programa Alura Latam - Challenge Data Science*
